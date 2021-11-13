@@ -1,1 +1,2 @@
-module.exports = {"a":1*2+3,"b":"Hello world!"}
+const x = require('./module-example/index.js')
+module.exports = {"a":x.a*2,"b":x.b}
