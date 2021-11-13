@@ -1,1 +1,1 @@
-module.exports = "Hello world!"
+module.exports = {"a":1*2+3,"b":"Hello world!"}
